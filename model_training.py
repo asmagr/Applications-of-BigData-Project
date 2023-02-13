@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 30 22:35:41 2023
-
-@author: A.Anjum
-"""
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
