@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 30 22:37:02 2023
 
-@author: A.Anjum
-"""
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.pipeline import Pipeline
